@@ -1,0 +1,9 @@
+{
+    "Editing Images": ["dng"],
+    "Images": ["jpg", "jpeg", "png", "gif", "bmp", "tiff"],
+    "Videos": ["mp4", "mov", "avi", "mkv", "wmv"],
+    "Audio": ["mp3", "wav", "flac", "aac", "ogg"],
+    "Documents": ["pdf", "docx", "doc", "txt", "xlsx", "pptx"],
+    "Archives": ["zip", "rar", "7z", "tar", "gz"],
+    "Code": ["py", "js", "html", "css", "cpp", "java"]
+}
