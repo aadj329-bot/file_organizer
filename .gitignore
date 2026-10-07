@@ -3,7 +3,8 @@
 logs/
 organizer_log.txt
 undo_log.txt
-final_notes.txt
+dfo_dummy.txt
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
